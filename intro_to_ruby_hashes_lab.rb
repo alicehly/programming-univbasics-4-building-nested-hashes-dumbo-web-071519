@@ -22,7 +22,7 @@ monopoly = {
   :railroads=>{
     :pieces=> 4,
     :names=>{},
-    :rent_in_dollars=>{},
+    :rent_in_dollars=>{ :one_pieces_owned=> 25,},
   }
 }
 end
