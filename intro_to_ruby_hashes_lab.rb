@@ -55,5 +55,5 @@ monopoly={
     }
   }
 }
-}
+
 end
